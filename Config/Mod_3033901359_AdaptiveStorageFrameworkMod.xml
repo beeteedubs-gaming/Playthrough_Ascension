@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AdaptiveStorage.AdaptiveStorageFrameworkSettings">
+		<ContentsTabType>AdaptiveStorage.ContentsITab</ContentsTabType>
+		<AutomaticallyOpenContentsTab>False</AutomaticallyOpenContentsTab>
+		<ContentLabelStyle>Automatic</ContentLabelStyle>
+		<HideLabelsUntilMouseOver>True</HideLabelsUntilMouseOver>
+		<HideLabelsWhenZoomedOut>False</HideLabelsWhenZoomedOut>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ShowHair.Settings">
+		<version>1.1.0</version>
+		<UseDontShaveHead>False</UseDontShaveHead>
+		<hairDefNames />
+		<settingEntries>
+			<li>
+				<conditionDefNames />
+				<notConditionDefNames>
+					<li>InBed</li>
+				</notConditionDefNames>
+				<hatState>ShowsHair</hatState>
+				<hatDefNames>
+					<li>Apparel_Headwrap</li>
+					<li>VAE_Headgear_Glasses</li>
+				</hatDefNames>
+				<useDontShaveHead>False</useDontShaveHead>
+			</li>
+			<li>
+				<conditionDefNames>
+					<li>Drafted</li>
+				</conditionDefNames>
+				<notConditionDefNames />
+				<hatState>ShowsHair</hatState>
+				<hatDefNames>
+					<li>HG_Bladelink</li>
+					<li>Apparel_Gunlink</li>
+					<li>HG_PrestigeBladelink</li>
+					<li>VAE_Headgear_Sunglasses</li>
+				</hatDefNames>
+				<useDontShaveHead>False</useDontShaveHead>
+			</li>
+			<li>
+				<conditionDefNames>
+					<li>Drafted</li>
+					<li>InVacuum</li>
+				</conditionDefNames>
+				<notConditionDefNames />
+				<hatState>HidesAllHair</hatState>
+				<hatDefNames>
+					<li>Apparel_ArmorHelmetCataphract</li>
+					<li>VFEE_Apparel_AbsolverHelmet</li>
+					<li>HG_BladelinkDeserterHelmet</li>
+					<li>VFEE_Apparel_DeserterHelmet</li>
+					<li>PD_Apparel_BlacktrooperHelmet</li>
+					<li>PD_Apparel_ExecutionerHelmet</li>
+					<li>VFEE_Apparel_JanissaryHelmet</li>
+					<li>Apparel_PowerArmorHelmet</li>
+					<li>Apparel_ArmorHelmetMechCommander</li>
+					<li>Apparel_ArmorHelmetMechlordHelmet</li>
+					<li>OdysseusVacsuitHelmet</li>
+					<li>Apparel_ArmorHelmetCataphractPrestige</li>
+					<li>VAE_Headgear_RoyalSiegeHelmet</li>
+					<li>PrestigeVacsuitHelmet</li>
+					<li>VAE_Headgear_HeavyMarineHelmet</li>
+					<li>DOR_Apparel_Atreides_SoldierrHelmet</li>
+					<li>Apparel_VacsuitHelmet</li>
+					<li>DOR_Apparel_Atreides_WardenHelmet</li>
+					<li>DOR_Apparel_Atreides_WorkerHelmet</li>
+					<li>DOR_Apparel_Atreides_RangerHelmet</li>
+					<li>PD_Apparel_ProbeHelmet</li>
+					<li>VAE_Apparel_PlateHelmet</li>
+				</hatDefNames>
+			</li>
+			<li>
+				<conditionDefNames>
+					<li>Drafted</li>
+				</conditionDefNames>
+				<notConditionDefNames />
+				<hatState>HidesHairShowsBeard</hatState>
+				<hatDefNames>
+					<li>Apparel_AdvancedHelmet</li>
+					<li>Apparel_SimpleHelmet</li>
+					<li>VAE_Headgear_TrooperHelmet</li>
+					<li>VAE_Headgear_RoyalTrooperHelmet</li>
+				</hatDefNames>
+			</li>
+		</settingEntries>
+	</ModSettings>
+</SettingsBlock>

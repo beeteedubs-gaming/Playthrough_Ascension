@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="OptionalNameDisplay.ONDSettings">
+		<playerSetting>
+			<showSelected>True</showSelected>
+			<showNearCursor>True</showNearCursor>
+		</playerSetting>
+		<neturalSetting>
+			<showSelected>True</showSelected>
+			<showNearCursor>True</showNearCursor>
+		</neturalSetting>
+		<hostileSetting>
+			<showSelected>True</showSelected>
+			<showNearCursor>True</showNearCursor>
+		</hostileSetting>
+	</ModSettings>
+</SettingsBlock>

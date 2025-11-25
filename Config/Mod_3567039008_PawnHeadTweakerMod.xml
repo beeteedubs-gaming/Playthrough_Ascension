@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PawnHeadTweaker.PawnHeadTweakerSettings">
+		<showScaleUI>True</showScaleUI>
+		<autoApplyDefaults>True</autoApplyDefaults>
+		<defLayerY>0.0500000007</defLayerY>
+	</ModSettings>
+</SettingsBlock>

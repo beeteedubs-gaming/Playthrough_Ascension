@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ForienNaturalizeGenome.NaturalizeGenomeSettings">
+		<naturalizeArchiteGenes>True</naturalizeArchiteGenes>
+		<addRandomDependency>False</addRandomDependency>
+	</ModSettings>
+</SettingsBlock>

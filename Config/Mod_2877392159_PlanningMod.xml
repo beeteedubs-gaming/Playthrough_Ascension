@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PlanningExtended.Settings.PlanningSettings">
+		<lastLoadedPlans>
+			<li>ST Defiant 0eMT</li>
+			<li>BTD Mourning Star P2</li>
+			<li>Jumper 01 P2</li>
+			<li>Jumper 01 P3</li>
+			<li>Jumper 01 P4</li>
+			<li>BTD Mourning Star 0ePT</li>
+			<li>Gravship 01</li>
+		</lastLoadedPlans>
+		<planDesignationSettings>
+			<keys>
+				<li>PlanWall</li>
+				<li>PlanFloors</li>
+				<li>PlanDoors</li>
+				<li>PlanObjects</li>
+			</keys>
+			<values>
+				<li>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<color>Structure_BlueIce</color>
+				</li>
+				<li>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<color>Structure_Black</color>
+				</li>
+			</values>
+		</planDesignationSettings>
+	</ModSettings>
+</SettingsBlock>
